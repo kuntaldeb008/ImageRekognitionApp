@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AmplifyImageRekognition</string>
+    <string name="header">Image Rekognition</string>
+    <string name="choose">Choose File</string>
+    <string name="filename">File Name</string>
+    <string name="upload">Upload</string>
+    <string name="dispfilename">Display File Name</string>
+    <string name="uploadfilesel">Please upload</string>
+    <string name="entername">filenamenter</string>
+    <string name="camera">camera</string>
+    <string name="analyze">Analyze Image</string>
+    <string name="labelsdet">Labels/Confidence :</string>
+</resources>
